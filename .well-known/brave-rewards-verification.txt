@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: braggbuilds.github.io
+Token: 3c37e126042fb965a22b461861e2b51a6385e20c75c6a9cc8fe59a4690d4f191
